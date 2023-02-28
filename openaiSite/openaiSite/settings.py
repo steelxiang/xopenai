@@ -127,4 +127,3 @@ STATICFILES_DIRS=[os.path.join(BASE_DIR,'static'),]
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
-openai.api_key = "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"
