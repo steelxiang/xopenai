@@ -47,7 +47,7 @@ def image(request):
             size="512x512"
         )
         answer = response['data']
-    context = {'title': 'Hello world hahahha',
+    context = {'title': 'Hello world ',
                "message": answer
                }
     # return HttpResponse(answer)
